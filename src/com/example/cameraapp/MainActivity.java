@@ -51,7 +51,7 @@ private PictureCallback mPicture = new PictureCallback() {
 	    	protected Void doInBackground(byte[]... data) 
 	    	{
 
-			// second edit 
+			// second edit  test
 	    		File pictureFile = getOutputMediaFile(mediaTypeImage);
 	    		
 	    		Log.d("CameraApp", "File is assigned to pictureFile");
