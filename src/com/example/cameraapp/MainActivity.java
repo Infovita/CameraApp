@@ -52,6 +52,7 @@ private PictureCallback mPicture = new PictureCallback() {
 	    	{
 
 			// second edit  test
+			// third edit test
 	    		File pictureFile = getOutputMediaFile(mediaTypeImage);
 	    		
 	    		Log.d("CameraApp", "File is assigned to pictureFile");
